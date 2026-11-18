@@ -1,0 +1,33 @@
+Name :
+
+Tanishk Yadav
+
+
+Class:
+
+!st Year
+
+
+
+University:
+
+NST-RU
+
+
+
+Skills:
+
+python/html/css
+
+
+
+Hobbies:
+
+tech stack/skating/playing games
+
+
+
+What I Want?
+
+one file - index.html
+Which contains html and css with full portfolio
